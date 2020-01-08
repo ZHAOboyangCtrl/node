@@ -1,0 +1,14 @@
+{
+  "name": "my",
+  "version": "1.0.0",
+  "description": "xxx",
+  "main": "webpack",
+  "scripts": {
+    "start": "node helloword.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zhy",
+  "license": "MIT"
+}
